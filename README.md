@@ -1,3 +1,4 @@
+![Cover](https://repository-images.githubusercontent.com/822161886/d4d648b9-93c0-4550-bb1a-7eb4fa0d0eaf)
 
 # 🦾 WP-Dev-Advantage
 
